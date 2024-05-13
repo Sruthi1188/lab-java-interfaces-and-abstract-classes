@@ -1,4 +1,6 @@
-public class Movies extends Video{
+package Task3;
+
+public class Movies extends Video {
     private double rating;
 
 
